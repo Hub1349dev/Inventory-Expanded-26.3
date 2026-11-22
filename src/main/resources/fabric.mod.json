@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "matinventory",
+  "version": "${version}",
+  "name": "Inventory Expanded (Beta)",
+  "description": "A perspective inventory laid out on a leather field mat.",
+  "authors": ["nandinmac123"],
+  "contact": {
+    "sources": "https://github.com/Hub1349dev/Inventory-Expanded-26.3"
+  },
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.example.matinventory.MatInventory"],
+    "client": ["com.example.matinventory.MatInventoryClient"]
+  },
+  "mixins": [
+    "matinventory.mixins.json",
+    {
+      "config": "matinventory.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=0.20.1",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

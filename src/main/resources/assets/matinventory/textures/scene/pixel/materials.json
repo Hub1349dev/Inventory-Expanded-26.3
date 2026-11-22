@@ -1,0 +1,68 @@
+{
+  "size": [
+    16,
+    16
+  ],
+  "filter": "nearest",
+  "mipmaps": false,
+  "pbr": false,
+  "source": "Original deterministic pixel-grid palettes; no sampled game or generated source images.",
+  "palettes": {
+    "canvas": [
+      "#af7c43",
+      "#b68146",
+      "#ba874b",
+      "#bf8c50",
+      "#c29155"
+    ],
+    "pad": [
+      "#20534b",
+      "#23584f",
+      "#265d54",
+      "#2a6259",
+      "#2d675e"
+    ],
+    "rubber": [
+      "#292e2f",
+      "#2e3334",
+      "#333839",
+      "#383d3e",
+      "#3c4242"
+    ],
+    "border": [
+      "#252a2b",
+      "#2a2f30",
+      "#2f3435",
+      "#34393a",
+      "#383e3f"
+    ],
+    "hotbar": [
+      "#303638",
+      "#343a3c",
+      "#383e40",
+      "#3d4345",
+      "#42484a"
+    ],
+    "thread": [
+      "#3c443e",
+      "#404841",
+      "#444c45",
+      "#485049",
+      "#4c544d"
+    ],
+    "wood": [
+      "#53402d",
+      "#5d4933",
+      "#68523a",
+      "#735c41",
+      "#7e674a"
+    ],
+    "led": [
+      "#c4cbbc",
+      "#cbd2c3",
+      "#d2d9ca",
+      "#d9e0d1",
+      "#e0e7d8"
+    ]
+  }
+}

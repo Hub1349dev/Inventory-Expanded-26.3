@@ -1,0 +1,37 @@
+{
+  "required": true,
+  "package": "com.example.matinventory.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": [
+    "MinecraftMixin",
+    "ContainerScreenMixin",
+    "ContainerHoverAccessor",
+    "InventoryButtonSoundMixin",
+    "PipTargetAccessor",
+    "DebugCaptureMixin",
+    "ScreenBackgroundMixin",
+    "PlacementSyncMixin",
+    "GuiSlotPosition",
+    "NativeScreenInvoker",
+    "GuiBlitAccess",
+    "NativeBackgroundBlitMixin",
+    "IndependentMenuOriginMixin",
+    "MerchantOriginMixin",
+    "BeaconOriginMixin",
+    "StandardMenuOriginMixin",
+    "AnvilOriginMixin",
+    "CreativeInventoryMixin",
+    "CreativeSlotAccess",
+    "MatCameraAccess",
+    "MatLevelSceneMixin",
+    "MatGameSceneMixin",
+    "MatHandsMixin",
+    "MatIrisShadowMixin",
+    "MatScreenEffectsMixin",
+    "MatGuiScissorAccess"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "plugin": "com.example.matinventory.mixin.MatClientMixinPlugin"
+}

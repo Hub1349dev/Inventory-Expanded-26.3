@@ -1,0 +1,18 @@
+{
+  "inventory_open": { "sounds": [{"name":"matinventory:inventory_open","preload":true,"volume":0.35},{"name":"matinventory:inventory_open_2","preload":true,"volume":0.35}] },
+  "inventory_open_short": { "sounds": [{"name":"matinventory:inventory_open_short","preload":true,"volume":0.35},{"name":"matinventory:inventory_open_2","preload":true,"volume":0.35}] },
+  "inventory_close": { "sounds": [{"name":"matinventory:inventory_close","preload":true,"volume":0.35}] },
+  "mat_drop": { "sounds": [{"name":"matinventory:mat_drop","preload":true,"volume":0.35}] },
+  "inventory_items_load": { "sounds": [{"name":"matinventory:inventory_items_load","volume":0.35}] },
+  "led_button_click": { "sounds": [{"name":"matinventory:led_button_click","volume":0.35}] },
+  "led_ambient": { "sounds": [{"name":"matinventory:led_ambient","volume":0.35}] },
+  "led_flicker": { "sounds": [{"name":"matinventory:led_flicker","volume":0.35},{"name":"matinventory:led_flicker_2","volume":0.35}] },
+  "search_blocks": { "sounds": [{"name":"matinventory:search_blocks","volume":0.35}] },
+  "search_tools": { "sounds": [{"name":"matinventory:search_tools","volume":0.35}] },
+  "search_craft_food": { "sounds": [{"name":"matinventory:search_craft_food","volume":0.35}] },
+  "search_clothing": { "sounds": [{"name":"matinventory:search_clothing","volume":0.35}] },
+  "craft": { "sounds": [{"name":"matinventory:craft","preload":true,"volume":0.35}] },
+  "eat_1": { "sounds": [{"name":"matinventory:eat_1","preload":true,"volume":0.35}] },
+  "eat_2": { "sounds": [{"name":"matinventory:eat_2","preload":true,"volume":0.35}] },
+  "eat_3": { "sounds": [{"name":"matinventory:eat_3","preload":true,"volume":0.35}] }
+}

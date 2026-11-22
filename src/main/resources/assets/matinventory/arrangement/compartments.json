@@ -1,0 +1,66 @@
+[
+  {
+    "id": "blocks",
+    "category": "BLOCKS",
+    "x0": -14.5,
+    "z0": -4,
+    "x1": -9.5,
+    "z1": 4.2
+  },
+  {
+    "id": "resources",
+    "category": "RESOURCES",
+    "x0": -9.5,
+    "z0": -4,
+    "x1": -4,
+    "z1": 4.2
+  },
+  {
+    "id": "craft_materials",
+    "category": "OTHER",
+    "x0": -4,
+    "z0": -4,
+    "x1": 4,
+    "z1": -0.8
+  },
+  {
+    "id": "craft",
+    "category": "CRAFT",
+    "x0": -4,
+    "z0": -0.8,
+    "x1": 4,
+    "z1": 4.2
+  },
+  {
+    "id": "tools",
+    "category": "LONG_TOOLS",
+    "x0": 4,
+    "z0": -4,
+    "x1": 18,
+    "z1": 4.2
+  },
+  {
+    "id": "food",
+    "category": "FOOD",
+    "x0": -9.5,
+    "z0": -7.8,
+    "x1": 4,
+    "z1": -4
+  },
+  {
+    "id": "hotbar",
+    "category": "HOTBAR",
+    "x0": -4,
+    "z0": 4.2,
+    "x1": 4.8,
+    "z1": 7.4
+  },
+  {
+    "id": "equipment",
+    "category": "EQUIPMENT",
+    "x0": 4.8,
+    "z0": 4.2,
+    "x1": 18,
+    "z1": 7.4
+  }
+]

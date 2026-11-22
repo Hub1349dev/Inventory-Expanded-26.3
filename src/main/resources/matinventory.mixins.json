@@ -1,0 +1,21 @@
+{
+  "required": true,
+  "package": "com.example.matinventory.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "mixins": [
+    "PlayerStorageMixin",
+    "InventoryStorageMixin",
+    "RecipeStorageMixin",
+    "ExpandedMenuMixin",
+    "CapacitySlotMixin",
+    "CapacityMenuMixin",
+    "ModToolStackMixin",
+    "InventoryConsumeMixin",
+    "InventoryFoodSoundMixin",
+    "ChestStorageMixin",
+    "NativeContainerStorageMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
